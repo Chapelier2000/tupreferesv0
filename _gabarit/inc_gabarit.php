@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<div class="container">
+			<h1>&copy;Gilles</h1>
 			<header>
 				<?php require "../_include/inc_entete.php" ?>
 			</header>
