@@ -1,5 +1,6 @@
 CREATE DATABASE IF NOT EXISTS exemple DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE exemple;
+-- COMMENTAIRE GL
 -- --------------------------------------------------------
 set foreign_key_checks =0;
 -- CREATION DES TABLES
