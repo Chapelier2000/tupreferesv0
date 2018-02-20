@@ -1,0 +1,9 @@
+git config --global user.email "votre_email@votre_email.com"
+git config --global user.name "Votre Nom Ici"
+git config --get user.email
+git clone https://github.com/GillesFromGuinot/tupreferesv0
+cd tupreferesv0
+git add *
+git commit -m "Message de validation"
+git remote add origin https://github.com/GillesFromGuinot/tupreferesv0
+git push origin master
