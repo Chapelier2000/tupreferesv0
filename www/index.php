@@ -1,4 +1,5 @@
 <?php
+//COMMENTAIRE POUR TESTER GIT
 require "../_include/inc_config.php";
 //paremetre $_GET m=module et a=action
 if (!isset($_GET["m"]))
